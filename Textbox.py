@@ -9,4 +9,7 @@ class Textbox:
         self.color = color
         self.font = font
 
+    def __str__(self):
+        return self.text, "at", self.posn, "with size", self.size, "and color", self.color, "and font", self.font
+
 

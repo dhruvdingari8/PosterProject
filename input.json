@@ -11,31 +11,13 @@
       {
         "title" : "Bite Me",
         "length" : "2:37"
-      },
-      {
-        "title" : "Sacrifice (Eat Me Up)",
-        "length" : "3:22"
-      },
-      {
-        "title" : "Chaconne",
-        "length" : "3:33"
-      },
-      {
-        "title" : "Bills",
-        "length" : "2:55"
-      },
-      {
-        "title" : "Karma",
-        "length" : "3:12"
       }
     ],
-    "album_info" : [
-      {
+    "album_info" : {
         "publisher" : "Belift Lab",
         "genre" : "K-Pop | Hip-Hop",
         "release_date" : "May 22, 2023"
-      }
-    ],
+    },
     "cover_art" : "AlbumCovers/DARKBLOOD.jpg",
     "cover_colors" : [
       "#cfcfcf", "#262c38", "#0e0e0e"
