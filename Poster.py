@@ -1,5 +1,5 @@
 import json as jsn
-
+import Textbox
 class Poster:
 
     def __init__(self, title, artist, tot_len, tracklist, info, cover, cover_colors, spotify_code):
